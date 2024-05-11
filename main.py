@@ -16,7 +16,7 @@ from highrise.models_webapi import *
 import importlib.util
 from loop_emote import send_specific_emote_periodically, stop_emote_task
 from getItems import getclothes, getCommands
-# from webserver import keep_alive
+from webserver import keep_alive
 
 emotesava = [
     "emote-kiss", "emote-no", "emote-sad", "emote-yes", "emote-laughing",
