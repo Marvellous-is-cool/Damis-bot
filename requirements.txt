@@ -57,7 +57,7 @@ greenlet==3.0.1
 grpcio==1.59.2
 h11==0.14.0
 h2==4.1.0
-highrise-bot-sdk==23.3.4
+highrise-bot-sdk
 hpack==4.0.0
 httpcore==1.0.5
 httptools==0.6.1
